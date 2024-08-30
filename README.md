@@ -1,2 +1,2 @@
-# Redux-toolking-lista-de-tareas-Daniela
+# Redux-toolkit-lista-de-tareas-Daniela
 Created with CodeSandbox
