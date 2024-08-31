@@ -6,7 +6,7 @@ import "./App.css";
 const App = () => (
   <div className="container">
     <h1>Lista de Tareas de Daniela</h1>
-    <h4>Usando Redux toolking</h4>
+    <h4>Usando Redux toolkit</h4>
     <h6>Día jueves 15 de agosto</h6>
     {}
     <AddTodo />
